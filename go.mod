@@ -8,3 +8,5 @@ require (
 	github.com/hashicorp/go-version v1.6.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.23.0
 )
+
+ replace github.com/fortinetdev/forti-sdk-go => ./forti-sdk-go
